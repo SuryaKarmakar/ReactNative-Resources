@@ -1,6 +1,7 @@
-# ReactNative-Resources
+# ReactNative-Resources :
 
-- [ReactNative-ProjectStructure](https://github.com/SuryaKarmakar/ReactNative-ProjectStructure)
+## React Native Scratch Project Resources :
 
-# React Native Core Components :
+- [React Native Project Structure](https://github.com/SuryaKarmakar/ReactNative-ProjectStructure)
+
 
