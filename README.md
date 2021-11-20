@@ -1,7 +1,8 @@
 # ReactNative-Resources :
 
-## React Native Scratch Project Resources :
+## Types Of Components In React Native :
 
-- [React Native Project Structure](https://github.com/SuryaKarmakar/ReactNative-ProjectStructure)
+- [Class Component](https://github.com/SuryaKarmakar/ReactNative-ClassComponent)
+- [FunctionalComponents](https://github.com/SuryaKarmakar/ReactNative-FunctionalComponents)
 
 
