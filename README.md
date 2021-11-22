@@ -4,6 +4,5 @@
 
 - [Class Component](https://github.com/SuryaKarmakar/ReactNative-ClassComponent)
 - [Functional Components](https://github.com/SuryaKarmakar/ReactNative-FunctionalComponents)
-- [Custom Component](https://github.com/SuryaKarmakar/ReactNative-CustomComponent)
 
 
