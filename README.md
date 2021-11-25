@@ -7,3 +7,4 @@
 
 ## React Native Core Components :
 - [View](https://github.com/SuryaKarmakar/ReactNative-View)
+- [ActivityIndicator](https://github.com/SuryaKarmakar/ReactNative-ActivityIndicator)
