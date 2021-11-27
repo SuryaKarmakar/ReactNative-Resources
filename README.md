@@ -8,4 +8,5 @@
 ## React Native Core Components :
 - [View](https://github.com/SuryaKarmakar/ReactNative-View)
 - [Text](https://github.com/SuryaKarmakar/ReactNative-Text)
+- [Image](https://github.com/SuryaKarmakar/ReactNative-Image)
 - [ActivityIndicator](https://github.com/SuryaKarmakar/ReactNative-ActivityIndicator)
