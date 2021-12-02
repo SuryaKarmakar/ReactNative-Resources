@@ -9,5 +9,6 @@
 - [View](https://github.com/SuryaKarmakar/ReactNative-View)
 - [Text](https://github.com/SuryaKarmakar/ReactNative-Text)
 - [Image](https://github.com/SuryaKarmakar/ReactNative-Image)
+- [ImageBackground](https://github.com/SuryaKarmakar/ReactNative-ImageBackground)
 - [Button](https://github.com/SuryaKarmakar/ReactNative-Button)
 - [ActivityIndicator](https://github.com/SuryaKarmakar/ReactNative-ActivityIndicator)
